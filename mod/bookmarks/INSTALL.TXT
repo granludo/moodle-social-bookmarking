@@ -1,0 +1,17 @@
+Installation of Moodle Social Bookmarks Module for Moodle 1.9
+-------------------------------------------------------------
+The following steps should get you up and running with
+this Moodle Module
+
+1. Unzip the archive and read this file
+2. The "bookmars" module folder MUST be lower case before Moodle will recognize
+   it. 
+3. Place the "bookmarks" folder into the /mod folder of the moodle
+   directory. 
+4. Log in on Moodle as Admin and goto Notifications and you should find the module's    databases successfully created
+
+You're ready to use the Social Bookmarking Module
+
+Jordi Piguillem and Ludo (Marc Alier)
+http://code.google.com/p/moodle-social-bookmarking/
+
